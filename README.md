@@ -1,2 +1,7 @@
 # AdventOfCode2022
-Will I actually do more than 5?
+
+## Steps to run
+
+1. Install Node.js
+2. Install dependencies `npm install`
+3. Run scripts `node 1`
